@@ -1,0 +1,3 @@
+- I develop tools, addons, and weakauras for world of warcraft.
+- My background is in full-stack software development.
+- You can contact me on discord: Algor#5453
