@@ -6,4 +6,4 @@
 ✉️ You can contact me on discord: algorcode
 
 ## Suggestions
-If you have any suggestions for anything wow related for me to create, feel free to contact me, I may be interested.
+If you have any suggestions for any features to my projects, feel free to contact me, I may be interested.
